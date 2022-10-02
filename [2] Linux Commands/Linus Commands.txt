@@ -1,0 +1,30 @@
+                                              LINUX COMMANDS 
+
+1. touch --  the touch command creates an empty file using the filename you specify.
+
+
+2. rm --  the rm command removes a file. to delete a file you created, enter;  rm filename
+
+
+3. rmdir -- the rmdir command removes a directory. to delete a directory you just created, enter; rmdir filename 
+
+
+4. cp --   the cp command copies a file or directory you specify to the location and new filename you specify
+
+
+5. mv --- the mv command moves a file or directory you specify to the location you specify. 
+
+
+6. man --- the man command displays the manuel page for the command you specify.
+
+
+7. sudo su apt update --- this command is used to update the linux operating system.
+
+
+8. sudo su ---- this command is used to switch to a root user.
+
+
+9. clear ----  this command is used to clear the terminal.
+
+
+10. apt get ---- this command  is used install and update packages. 
