@@ -4,3 +4,14 @@ This file explains the my day by day improvement in becoming a cloud engineeer.
                                                                        On 13th October thursday 
 -I added the outputs of ( git remote -v and the git log ) after commiting them to my github repository. 
 - also created a gitlab access token in my gitlab account settings to be able to push my files to a new repository.
+
+learnt about CIS security Benchamark and also the also about the how to script write bash :
+i started by learning about the terms of Bash Scripting 
+ -The shebang (#!)
+- Variables 
+-input 
+-arithmetic 
+-if statements
+-loops 
+-functions 
+-file permissions 
