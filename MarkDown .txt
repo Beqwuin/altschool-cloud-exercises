@@ -15,3 +15,7 @@ i started by learning about the terms of Bash Scripting
 -loops 
 -functions 
 -file permissions 
+
+its the final day of submitting the assignments we were given and yet i have not been able to finish assignment 7 and also dont
+and also cant find a way to start assignment 6. i have been trying to figure it out for the pass 18 hours and yet
+it has all come to no avail. just hoping i finish this before deadline. 
